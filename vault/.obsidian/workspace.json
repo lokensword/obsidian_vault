@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "01b019f3bdfa12bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3716d1633c1461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d8bf38d2e57e2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc89f862dc802800",
+    "type": "split",
+    "children": [
+      {
+        "id": "40971fd258a9e7d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3b630575fe844a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f65a9036fb5dfcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5e02245f9044bd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbcd6c5d3c78d34c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2253f550174a7c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe75f4627d977c1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap"
+            }
+          },
+          {
+            "id": "df046ce4f24de0b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap"
+            }
+          },
+          {
+            "id": "6535bb7e7bfcc3fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6038682267fceafa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "8d8bf38d2e57e2a3",
+  "lastOpenFiles": [
+    "Tasks.canvas",
+    "Plan.md",
+    "By topic/Nets/Работа VPN.md",
+    "By topic/Nets/VPN.md",
+    "By topic/Nets/Обходы впн.md",
+    "By topic/Nets/Впн на Oracle Cloud.md",
+    "By topic/Nets/Nets.md",
+    "By topic/Linux/Linux.md",
+    "By topic/Obsidian/Plugins/QuickAdd.md",
+    "By topic/Obsidian/Plugins/Plugins.md",
+    "By topic/Obsidian/Plugins/Kanban.md",
+    "By topic/Obsidian/Plugins/Extended Media.md",
+    "By topic/Obsidian/Plugins/Commander.md",
+    "By topic/Obsidian/Plugins/Advanced Tables.md",
+    "By topic/Obsidian/Obsidian.md",
+    "By topic/Nets/спотифай.md",
+    "Впн-сервер на Oracle Cloud.md",
+    "[Впн-сервер на Oracle Cloud.md",
+    "By topic/Git/Git.md",
+    "2025-05-16.md",
+    "Excalidraw",
+    "2025-04-23 sudo su.md",
+    "By topic/Obsidian/Untitled.md",
+    "хуйня 1.md",
+    "хуйня.md",
+    "By topic/Nets",
+    "By topic/Git",
+    "By topic/Linux",
+    "By topic/Obsidian",
+    "By topic/Obsidian/Plugins",
+    "Drawing 2025-04-22 21.24.23.excalidraw.md",
+    "Drawing 2025-04-22 21.22.38.excalidraw.md",
+    "By topic",
+    "folder1/Untitled.canvas",
+    "folder1"
+  ]
+}

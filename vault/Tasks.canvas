@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"c2026be5758ba0bf","type":"file","file":"By topic/Obsidian/Obsidian.md","x":-723,"y":-1197,"width":516,"height":350,"color":"4"},
+		{"id":"860315d51b49b0e0","type":"file","file":"By topic/Obsidian/Plugins/Plugins.md","x":-1122,"y":-994,"width":235,"height":295},
+		{"id":"3416a1ccfac839b1","type":"file","file":"By topic/Git/Git.md","x":-778,"y":-148,"width":627,"height":240,"color":"4"},
+		{"id":"44c51d6d527302ad","type":"file","file":"By topic/Nets/Nets.md","x":41,"y":412,"width":634,"height":339,"color":"4"},
+		{"id":"1574645ac68d2fe0","type":"file","file":"By topic/Linux/Linux.md","x":36,"y":-877,"width":577,"height":581,"color":"4"},
+		{"id":"9bd6f501f8147f8a","type":"text","text":"- [x]  Поставить вторую ОС\n- [ ] Переустановить систему (найти флешку)","x":751,"y":-362,"width":276,"height":133},
+		{"id":"5d2596829b8a9fc7","type":"text","text":"Подробнее узнать про Микроядерные ос","x":1477,"y":-1096,"width":247,"height":80},
+		{"id":"6bbc19a00b9dc4ed","type":"text","text":"VPN  на OracleCloud","x":1342,"y":-464,"width":236,"height":54},
+		{"id":"19643beb109e7b6e","type":"text","text":"Создать реп под лабы","x":-313,"y":-445,"width":227,"height":50}
+	],
+	"edges":[
+		{"id":"ddec424d43802cbe","fromNode":"1574645ac68d2fe0","fromSide":"right","toNode":"9bd6f501f8147f8a","toSide":"left"},
+		{"id":"1098a42cb9748aac","fromNode":"c2026be5758ba0bf","fromSide":"bottom","toNode":"1574645ac68d2fe0","toSide":"left"},
+		{"id":"8c97203125c3e738","fromNode":"1574645ac68d2fe0","fromSide":"bottom","toNode":"3416a1ccfac839b1","toSide":"top"},
+		{"id":"c06f376550b9ace5","fromNode":"3416a1ccfac839b1","fromSide":"right","toNode":"19643beb109e7b6e","toSide":"left"},
+		{"id":"799acaf98968424c","fromNode":"19643beb109e7b6e","fromSide":"top","toNode":"9bd6f501f8147f8a","toSide":"bottom"},
+		{"id":"809bcb2f4dbf1b80","fromNode":"c2026be5758ba0bf","fromSide":"left","toNode":"860315d51b49b0e0","toSide":"right"},
+		{"id":"7b20e1fb1d0761cd","fromNode":"3416a1ccfac839b1","fromSide":"bottom","toNode":"44c51d6d527302ad","toSide":"top"},
+		{"id":"75cf2b36406bd17c","fromNode":"44c51d6d527302ad","fromSide":"right","toNode":"6bbc19a00b9dc4ed","toSide":"left"},
+		{"id":"2053661f7337e71b","fromNode":"1574645ac68d2fe0","fromSide":"right","toNode":"6bbc19a00b9dc4ed","toSide":"left"},
+		{"id":"93d6e3fdfc086db4","fromNode":"1574645ac68d2fe0","fromSide":"top","toNode":"5d2596829b8a9fc7","toSide":"left"}
+	]
+}
